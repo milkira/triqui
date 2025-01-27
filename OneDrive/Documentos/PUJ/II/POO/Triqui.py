@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-y si ya no vuelvo a verte
+ojala que tegas suerte
