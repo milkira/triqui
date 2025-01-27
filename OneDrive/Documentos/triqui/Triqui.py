@@ -7,3 +7,4 @@ def tablero(t):
     print(t[6] if t[6] else " ", "|", t[7] if t[7] else " ", "|", t[8] if t[8] else " ")
     print("")
 
+def triqui(t):
