@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-ojala que tegas suerte
+AMORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
