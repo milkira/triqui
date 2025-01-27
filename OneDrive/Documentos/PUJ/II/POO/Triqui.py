@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-tranquila no te voy a molestar
+mi suerte estaba echada ya lo se
