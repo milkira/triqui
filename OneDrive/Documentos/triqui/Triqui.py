@@ -33,4 +33,5 @@ def jugar():
         turno = "O" if turno == "X" else "X"
     tablero(t)
     print("¡Empate!")
-
+    
+    jugar()
