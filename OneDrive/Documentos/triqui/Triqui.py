@@ -15,3 +15,5 @@ def triqui(t):
     return False
 
 def jugar():
+    t = [""] * 9
+    turno = "X"
