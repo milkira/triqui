@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-mi suerte estaba echada ya lo se
+y se que hay un torrente dandon vueltas en tu mente
