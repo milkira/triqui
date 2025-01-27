@@ -17,3 +17,5 @@ def triqui(t):
 def jugar():
     t = [""] * 9
     turno = "X"
+    for _ in range(9):
+        tablero(t)
