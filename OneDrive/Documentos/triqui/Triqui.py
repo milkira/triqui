@@ -19,3 +19,18 @@ def jugar():
     turno = "X"
     for _ in range(9):
         tablero(t)
+        while True:
+            posicion = input(f"Turno de {turno}. Ingrese posición (0-8): ")
+            if posicion.isdigit() and 0 <= int(posicion) <= 8 and t[int(posicion)] == "":
+                t[int(posicion)] = turno
+                break
+            print("Posición inválida. Intente de nuevo.")
+        if triqui(t):
+            tablero(t)
+            
+            print(turno, "ha ganado!")
+            return
+        turno = "O" if turno == "X" else "X"
+    tablero(t)
+    print("¡Empate!")
+
