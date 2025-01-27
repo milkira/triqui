@@ -35,5 +35,3 @@ def jugar():
     print("¡Empate!")
 
 jugar()
-
-AMORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
