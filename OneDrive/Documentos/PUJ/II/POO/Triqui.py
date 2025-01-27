@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-AMORRRRRRRRRRRRRRRRRR
+si alguna vez nos vemos por ahi
