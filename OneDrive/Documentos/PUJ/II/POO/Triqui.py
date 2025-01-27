@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-invitame a un cafe y .....
+y si ya no vuelvo a verte
