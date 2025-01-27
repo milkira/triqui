@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-y se que hay un torrente dandon vueltas en tu mente
+AMORRRRRRRRRRRRRRRRRR
