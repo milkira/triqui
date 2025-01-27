@@ -14,3 +14,4 @@ def triqui(t):
             return True
     return False
 
+def jugar():
