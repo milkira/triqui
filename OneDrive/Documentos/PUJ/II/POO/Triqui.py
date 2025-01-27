@@ -36,4 +36,4 @@ def jugar():
 
 jugar()
 
-holis, como
+holis, como estan?
